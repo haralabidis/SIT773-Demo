@@ -1,0 +1,30 @@
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/bin/Debug/netcoreapp5.0/7.1.deps.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/bin/Debug/netcoreapp5.0/7.1.runtimeconfig.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/bin/Debug/netcoreapp5.0/7.1.runtimeconfig.dev.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/bin/Debug/netcoreapp5.0/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/bin/Debug/netcoreapp5.0/ref/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/bin/Debug/netcoreapp5.0/7.1.pdb
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/Task-7.1P.csproj.AssemblyReference.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/Task-7.1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/Task-7.1P.AssemblyInfoInputs.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/Task-7.1P.AssemblyInfo.cs
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/Task-7.1P.csproj.CoreCompileInputs.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/ref/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/7.1.pdb
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P/Code/obj/Debug/netcoreapp5.0/Task-7.1P.genruntimeconfig.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/Task-7.1P.csproj.AssemblyReference.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/Task-7.1P.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/Task-7.1P.AssemblyInfoInputs.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/Task-7.1P.AssemblyInfo.cs
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/Task-7.1P.csproj.CoreCompileInputs.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/ref/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/7.1.pdb
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/bin/Debug/netcoreapp5.0/7.1.deps.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/bin/Debug/netcoreapp5.0/7.1.runtimeconfig.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/bin/Debug/netcoreapp5.0/7.1.runtimeconfig.dev.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/bin/Debug/netcoreapp5.0/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/bin/Debug/netcoreapp5.0/ref/7.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/bin/Debug/netcoreapp5.0/7.1.pdb
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/7.1P Abstract Transactions/Code/obj/Debug/netcoreapp5.0/Task-7.1P.genruntimeconfig.cache

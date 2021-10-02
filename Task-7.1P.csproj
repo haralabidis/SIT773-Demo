@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp5.0</TargetFramework>
+    <RootNamespace></RootNamespace>
+    <AssemblyName>7.1</AssemblyName>
+  </PropertyGroup>
+
+</Project>

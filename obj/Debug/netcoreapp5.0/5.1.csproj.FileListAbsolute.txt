@@ -1,0 +1,30 @@
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.csproj.AssemblyReference.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.AssemblyInfoInputs.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.AssemblyInfo.cs
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.csproj.CoreCompileInputs.cache
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/bin/Debug/netcoreapp5.0/5.1.deps.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/bin/Debug/netcoreapp5.0/5.1.runtimeconfig.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/bin/Debug/netcoreapp5.0/5.1.runtimeconfig.dev.json
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/bin/Debug/netcoreapp5.0/5.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/bin/Debug/netcoreapp5.0/ref/5.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/bin/Debug/netcoreapp5.0/5.1.pdb
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/ref/5.1.dll
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.pdb
+/Users/patrick/OneDrive - Deakin University/SIT771/Tasks/5.1/obj/Debug/netcoreapp5.0/5.1.genruntimeconfig.cache
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/bin/Debug/netcoreapp5.0/5.1.deps.json
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/bin/Debug/netcoreapp5.0/5.1.runtimeconfig.json
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/bin/Debug/netcoreapp5.0/5.1.runtimeconfig.dev.json
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/bin/Debug/netcoreapp5.0/5.1.dll
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/bin/Debug/netcoreapp5.0/ref/5.1.dll
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/bin/Debug/netcoreapp5.0/5.1.pdb
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.csproj.AssemblyReference.cache
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.AssemblyInfoInputs.cache
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.AssemblyInfo.cs
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.csproj.CoreCompileInputs.cache
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.dll
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/ref/5.1.dll
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.pdb
+/Users/Patrick.Haralabidis/OneDrive - Deakin University/SIT771/Tasks/5.3P Many Accounts/Code/obj/Debug/netcoreapp5.0/5.1.genruntimeconfig.cache
